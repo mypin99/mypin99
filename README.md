@@ -1,6 +1,7 @@
 WELCOME TO MY GITHUB!
 
 ABOUT ME,
+
 I am an Electrical & Electronics Engineer with a specializstion in Instrumentation & Control Engineering. I have a deep passion for Embedded Systems, Software Development, and Industrial Automation. My expertise spans across hardware design, firmware development, and full-stack web development, making me a well-rounded engineer capable of bridging the gap between hardware and software solutions.
 
 MY TECHNICAL EXPERTISE
