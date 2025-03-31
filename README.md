@@ -53,7 +53,7 @@ GET IN TOUCH;
 
 📩 Email: [ogutuderick4@gmail.com]
 
-💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/derick-ogutu/)]
+💼 LinkedIn: [https://www.linkedin.com/in/derick-ogutu/]
 
 
 Let’s connect and collaborate on exciting projects! 
